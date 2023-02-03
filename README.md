@@ -1,12 +1,13 @@
 <p align = "center" dir = "auto">
  <img src="https://raw.githubusercontent.com/IHADAODIWRI/IHADAODIWRI/3f7c26458bf6114304520a6eed02d35cfe69b2b6/text.svg" alt="Hey there! 
-I'm the dynamic duo of programming and design, otherwise known as Dragomila." width="60%" height="auto" style="max-width: 100%;">
+I'm the dynamic duo of programming and design, otherwise known as Dragomila." width="65%" height="auto" style="max-width: 100%;">
 </p>
 
 <h1 align="center">"I craft digital solutions with creativity and code"</h1>
 
----
 
+
+<br>
 <h3 align="left">😊 A little about myself:</h3>
 <p align="left">
 
