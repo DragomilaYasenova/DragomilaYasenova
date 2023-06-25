@@ -25,6 +25,9 @@ I was introduced to technology at an early age, as I received my first computer 
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dragomila.yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragomila.yas" height="30" width="40" /></a>
+
+ <a href="linkedin.com/in/dragomila-yasenova-622988269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragomila.yas" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/f108384_ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f108384_ds" height="30" width="40" /></a>
 </p>
 
@@ -48,7 +51,7 @@ I was introduced to technology at an early age, as I received my first computer 
     <img src= "https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <img src="src/images/icons/Software/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
