@@ -24,11 +24,9 @@ I was introduced to technology at an early age, as I received my first computer 
 
 <h3 align="left">🤙 Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/dragomila.yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragomila.yas" height="30" width="40" /></a>
-
- <a href="linkedin.com/in/dragomila-yasenova-622988269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragomila.yas" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/f108384_ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="f108384_ds" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dragomila-yasenova-622988269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="dragomila-yasenova" height="30" width="40" /></a>
+<a href="https://instagram.com/dragomila.yas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="dragomila.yas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/f108384_ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/hackerrank.svg" alt="f108384_ds" height="30" width="40" /></a>
 </p>
 
 ---
@@ -36,13 +34,13 @@ I was introduced to technology at an early age, as I received my first computer 
 <h3 align="left">🧰 Languages and Tools:</h3>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> 
  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="html5" width="40" height="40"/> </a> 
  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> </a> 
  
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="40" height="40"/> </a> 
@@ -51,16 +49,16 @@ I was introduced to technology at an early age, as I received my first computer 
     <img src= "https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> 
   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="src/images/icons/Software/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
  
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
    
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/figma.svg" alt="figma" width="40" height="40"/> </a> 
  
   <a href="https://github.com/IHADAODIWRI" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="github" width="40" height="40"/> </a> 
  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
