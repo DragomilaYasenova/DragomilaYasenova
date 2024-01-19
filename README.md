@@ -1,9 +1,9 @@
 <p align = "center" dir = "auto">
- <img src="https://raw.githubusercontent.com/IHADAODIWRI/IHADAODIWRI/bb4b6e1c7f60c9a46f47737324d5cbc9c8740db2/introduction.svg" alt="introduction" width="65%" height="auto" style="max-width: 100%;">
+ <img src="https://raw.githubusercontent.com/DragomilaYasenova/DragomilaYasenova/bb4b6e1c7f60c9a46f47737324d5cbc9c8740db2/introduction.svg" alt="introduction" width="65%" height="auto" style="max-width: 100%;">
 </p>
 
 <p align = "center" dir = "auto">
- <img src="https://raw.githubusercontent.com/IHADAODIWRI/IHADAODIWRI/bb4b6e1c7f60c9a46f47737324d5cbc9c8740db2/introduction2.svg" alt="introduction" width="70%" height="auto" style="max-width: 100%;">
+ <img src="https://raw.githubusercontent.com/DragomilaYasenova/DragomilaYasenova/bb4b6e1c7f60c9a46f47737324d5cbc9c8740db2/introduction2.svg" alt="introduction" width="70%" height="auto" style="max-width: 100%;">
 </p>
 
 <br>
