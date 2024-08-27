@@ -43,7 +43,7 @@ I was introduced to technology at an early age, as I received my first computer 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="css3" width="40" height="40"/> </a> 
  
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="vscode" width="40" height="40"/> </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"" alt="vscode" width="40" height="40"/> </a> 
  
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src= "https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a> 
