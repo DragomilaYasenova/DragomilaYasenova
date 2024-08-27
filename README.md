@@ -24,9 +24,9 @@ I was introduced to technology at an early age, as I received my first computer 
 
 ### 🤙 Connect with me:
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40">](https://www.linkedin.com/in/dragomila-yasenova-622988269/)
+[<img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="linkedin" height="30" width="40">](https://www.linkedin.com/in/dragomila-yasenova-622988269/)
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40">](https://instagram.com/dragomila.yas)
+[<img align="left" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="instagram" height="30" width="40">](https://instagram.com/dragomila.yas)
 
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40">](https://www.hackerrank.com/f108384_ds)
 
@@ -36,25 +36,35 @@ I was introduced to technology at an early age, as I received my first computer 
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/cpp.svg"/>
+[<img align="left" alt="java" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"/>](https://github.com/DragomilaYasenova/WedConnect.git)
+
+[<img align="left" alt="python" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>](https://github.com/DragomilaYasenova/Orders.git)
+
+[<img align="left" alt="cplusplus" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg"/>](https://github.com/DragomilaYasenova/Mini-Games.git)
  
-<img align="left" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg"/>
+<img align="left" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
  
-<img align="left" alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg"/>
+<img align="left" alt="css3" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+
+[<img align="left" alt="Spring" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg"/>](https://github.com/DragomilaYasenova/WedConnect.git)
  
-<img align="left" alt="vscode" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
- 
-<img align="left" alt="visualstudio" width="40" height="40" src= "https://github.com/devicons/devicon/raw/v2.14.0/icons/visualstudio/visualstudio-plain.svg"/> 
+[<img align="left" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"/>](https://github.com/DragomilaYasenova/WedConnect.git)
+
+<img align="left" alt="IntelliJ IDEA" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Idea-Dark.svg"/>  
+
+<img align="left" alt="PyCharm" width="40" height="40" src= "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg"/>
+
+<img align="left" alt="CLion" width="40" height="40" src= "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CLion-Dark.svg"/>
+
+<img align="left" alt="VSCode" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg"/>  
+
+<img align="left" alt="git" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"/>
+
+<img align="left" alt="figma" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"/>
   
-<img align="left" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/photoshop.svg"/>
+<img align="left" alt="photoshop" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"/>
  
-<img align="left" alt="illustrator" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/illustrator.svg"/>
-   
-<img align="left" alt="figma" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/figma.svg"/>
- 
-<img align="left" alt="github" width="40" height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg"/>
- 
-<img align="left" alt="mysql" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="illustrator" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg"/>
 
 <br></br>
 
